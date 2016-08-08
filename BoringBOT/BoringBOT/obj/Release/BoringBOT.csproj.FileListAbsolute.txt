@@ -1,0 +1,39 @@
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Bot Application1.dll.config
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Bot Application1.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Bot Application1.pdb
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Autofac.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Chronic.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Microsoft.Bot.Builder.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Microsoft.Bot.Connector.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Newtonsoft.Json.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\System.Net.Http.Formatting.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\System.Web.Http.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\System.Web.Http.WebHost.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Autofac.xml
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Microsoft.Bot.Builder.xml
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Microsoft.Bot.Connector.xml
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\Newtonsoft.Json.xml
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\System.Net.Http.Formatting.xml
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\System.Web.Http.xml
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\System.Web.Http.WebHost.xml
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\obj\Release\Bot Application1.dll
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\obj\Release\Bot Application1.pdb
+C:\Users\Jolin\Documents\Visual Studio 2015\Projects\BoringBOT\BoringBOT\obj\Release\BoringBOT.csprojResolveAssemblyReference.cache
