@@ -84,40 +84,6 @@ namespace BoringBOT
 
                 Activity reply = activity.CreateReply(StockRateString);
                 await connector.Conversations.ReplyToActivityAsync(reply);
-                /*
-                
-                
-                // calculate something for us to return
-                int length = (activity.Text ?? string.Empty).Length;
-
-                // return our reply to the user
-                if (activity.Text == "Beanz" )
-                {
-                    Activity reply = activity.CreateReply("You are my love.");
-                    await connector.Conversations.ReplyToActivityAsync(reply);
-                }
-                else if(activity.Text == "宇弘")
-                {
-                    Activity reply = activity.CreateReply("依玲最愛的 <3");
-                    await connector.Conversations.ReplyToActivityAsync(reply);
-                }
-                else if (activity.Text == "fuck")
-                {
-                    Activity reply = activity.CreateReply("fuck you too.");
-                    await connector.Conversations.ReplyToActivityAsync(reply);
-                }
-                else if (activity.Text == "暐翔")
-                {
-                    Activity reply = activity.CreateReply("是個白癡。");
-                    await connector.Conversations.ReplyToActivityAsync(reply);
-                }
-                else
-                {
-                    Activity reply = activity.CreateReply($"You sent {activity.Text} which was {length} characters");
-                    await connector.Conversations.ReplyToActivityAsync(reply);
-                }
-                */
-
 
             }
             else

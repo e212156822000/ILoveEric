@@ -1,0 +1,39 @@
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Bot Application1.dll.config
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Bot Application1.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Bot Application1.pdb
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Autofac.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Chronic.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Microsoft.Bot.Builder.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Microsoft.Bot.Connector.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Newtonsoft.Json.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\System.Web.Http.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Autofac.xml
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Microsoft.Bot.Builder.xml
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Microsoft.Bot.Connector.xml
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\Newtonsoft.Json.xml
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\System.Web.Http.xml
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\obj\Debug\ILoveEric.csprojResolveAssemblyReference.cache
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\obj\Debug\Bot Application1.dll
+C:\Users\user\Coding\ILoveEric\LUIS_exmaple\BoringBOT\obj\Debug\Bot Application1.pdb
