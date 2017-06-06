@@ -39,7 +39,7 @@ namespace BoringBOT
             StockLUIS Data = new StockLUIS();
             using (HttpClient client = new HttpClient())
             {
-                string RequestURI = "https://api.projectoxford.ai/luis/v1/application?id=07d4c85b-b7f1-4174-86c7-cb123355dbbd&subscription-key=0a32f27c33b44259be7d0e5076bd3029&q=" + Query;
+                string RequestURI = "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/b1147601-1806-466d-8043-50777c0800f4?subscription-key=0a32f27c33b44259be7d0e5076bd3029&verbose=true&timezoneOffset=0&q=" + Query;
                 HttpResponseMessage msg = await client.GetAsync(RequestURI);
 
                 if (msg.IsSuccessStatusCode)
@@ -56,21 +56,24 @@ namespace BoringBOT
             {
                 ConnectorClient connector = new ConnectorClient(new Uri(activity.ServiceUrl));
                 //luis
-
-                //string StockRateString = await GetStock(activity.Text);
-               
-               
+                
                 string StockRateString;
                 StockLUIS StLUIS = await GetEntityFromLUIS(activity.Text);
                 if (StLUIS.intents.Count() > 0)
                 {
                     switch (StLUIS.intents[0].intent)
                     {
-                        case "StockPrice":
-                            StockRateString = await GetStock(StLUIS.entities[0].entity);
+                        case "查詢到貨時間":
+                            StockRateString = "您好，到這個網址就可以進行查詢囉！(url)";
                             break;
-                        case "StockPrice2":
-                            StockRateString = await GetStock(StLUIS.entities[0].entity);
+                        case "iphone手機退貨":
+                            StockRateString = "APPLE 衷心期盼您會滿意您所選購的產品，但是，如果您需要退回產品，我們會盡力提供協助。：";
+                            break;
+                        case "預購產品":
+                            StockRateString = "您好，現在xxx只提供預購的服務喔。";
+                            break;
+                        case "App退貨":
+                            StockRateString = "好的，以下是app退貨的流程教學";
                             break;
                         default:
                             StockRateString = "Sorry, I am not getting you...";
